@@ -32,6 +32,18 @@ pip install screen_brightness_control
 
 
 
+#### OutPut:
+>
+> This is how the OutPut Looks like
+> 
+> [![OpenCVPython](ss/Screenshot%20(77).png)](https://apparky.vercel.app/)
+> 
+> 
+> [![OpenCVPython](ss/Screenshot%20(79).png)](https://apparky.vercel.app/)
+> 
+> 
+> 
+
 
 
 
@@ -41,7 +53,7 @@ pip install screen_brightness_control
 > 
 > To get more interesting projects follow our Bitbucket page at [Here](https://bitbucket.org/apparky-web/workspace/overview)
 > 
-> To know more about [__APPARKY__](https://apparky.vercel.app/) Click [Here](https://apparky-soumenmtec-gmailcom.vercel.app/)
+> To know more about [__APPARKY__](https://apparky.vercel.app/) Click [Here](https://apparky.vercel.app/)
 
 
 
